@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginMVP</string>
+    <string name="str_login_tv">Nombre de Usuario</string>
+    <string name="str_bienvida">Bienvenidos!</string>
+    <string name="str_login_et">Ingresar nombre de usuario</string>
+    <string name="str_pass_tv">Contraseña</string>
+    <string name="str_pass_et">Ingresar Contraseña</string>
+    <string name="str_btn_loguearme">Loguearme</string>
+</resources>
